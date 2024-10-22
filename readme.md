@@ -12,10 +12,8 @@ Acest proiect simulează o stație de încărcare pentru vehicule electrice, fol
 ### Proiectul în funcțiune
 ![Proiectul în funcțiune](media/working.jpg)
 
-### Video YouTube
-<p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_CvzafnYRRA?si=KmNKfYqXdJFHV0K4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+### Video YouTube 
+[![Video YouTube](https://img.youtube.com/vi/_CvzafnYRRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=_CvzafnYRRA)
 
 
 
